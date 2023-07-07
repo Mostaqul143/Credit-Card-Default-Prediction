@@ -21,7 +21,7 @@ The dataset used for the analysis contains information on various features such 
 
 **Model Evaluation:** Assess the performance of the models using evaluation metrics like Mean Squared Error (MSE), Root Mean Squared Error (RMSE), and R-squared (R2) score.
 
-**Hyperparameter Tuning:*8 Fine-tune the model hyperparameters using techniques like Grid Search or Random Search to improve the model's performance.
+**Hyperparameter Tuning:** Fine-tune the model hyperparameters using techniques like Grid Search or Random Search to improve the model's performance.
 
 **Conclusion:** Summarize the key findings from the analysis, including the most accurate model and the significant features affecting the bike rental count.
 
