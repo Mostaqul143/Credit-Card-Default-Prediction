@@ -1,4 +1,4 @@
-# Credit-Card-Default_Prediction
+# Credit-Card-Default-Prediction
 
 Welcome to my Credit Card Fraud Detection project! This repository contains the analysis of the credit card fraud detection dataset. The analysis aims to predict fraudulent transactions in credit card data.
 
